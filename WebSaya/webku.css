@@ -1,0 +1,88 @@
+/* Reset CSS */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif;
+}
+
+/* Parent */
+.container .logos {
+   font-size: 1.4rem;
+   font-style: oblique;
+}
+
+.container .light-logos {
+   color: #FF5C58;
+}
+/* And Parent */
+
+/* Beranda */
+.jumbotron {
+   margin-top: 5.5em;
+   background: rgb(249,249,249);
+}
+
+.jumbotron .jumbot-name {
+   font-weight: 500;
+   color: #FF5C58;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.keterangan {
+   margin-top: 1.5em;
+   font-size: 1rem;
+   font-size: 1.1em;
+   font-weight: 400;
+   text-transform: uppercase;
+}
+/* Akhir Beranda */
+
+/* Tentang Saya */
+.tentang-saya {
+   margin-top: 5em;
+}
+
+.tentang {
+   font-size: 1.8rem;
+   color: #000;
+}
+
+.text-perkenalan {
+   font-size: 16px;
+   color: rgb(26,26,26);
+   word-wrap: 2px;
+   word-spacing: 3px;
+   text-transform: capitalize;
+}
+/* Akhir Tentang Saya */
+
+/* Karya */
+.karya {
+   margin-top: 5em;
+}
+
+.karyaku {
+   font-size: 1.8rem;
+   color: #000;
+}
+/* Akhir Karya */
+
+/* Kontak */
+.kontak {
+   margin-top: 5em;
+}
+
+.kontak-saya {
+   font-size: 1.8rem;
+   color: #000;
+}
+/* Akhir Kontak */
+
+/* Footer */
+.footers {
+   margin-top: 5em;
+}
